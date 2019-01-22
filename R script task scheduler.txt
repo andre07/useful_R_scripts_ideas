@@ -1,0 +1,6 @@
+1) Uruchom Harmonogram zadań (Task Scheduler) z uprawnieniami administratora
+2) W obszarze akcji 'Utwórz zadanie...'
+3) Wprowadź nazwę zadania i opis oraz ewentualne opcje zabezpieczeń
+4) Ustaw wyzwalacz zgodnie z interesującym Cię harmonogramem
+5) W polu 'Akcja' ustaw ścieżkę do Rscript.exe np. "C:\Program Files\R\R-3.5.0\bin\Rscript.exe"
+Jako argument podaj nazwę skryptu np. schedule_test.R, a rozpocznij w katalogu, w którym znajduje się skrypt np. C:\Projekty GfK
